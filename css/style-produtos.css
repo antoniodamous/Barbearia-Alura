@@ -1,0 +1,19 @@
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+.produtos {
+    width: 100%;
+}
+footer {
+    text-align: center;
+    background: url(/imagens/bg.jpg);
+    padding: 40px 0;
+}
+.copyright {
+    color: #FFFFFF;
+    font-size: 13px;
+    margin: 20px;
+}
